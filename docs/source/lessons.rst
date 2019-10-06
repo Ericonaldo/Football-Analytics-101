@@ -1,5 +1,5 @@
 .. Useful analytics lessons and interesting football analytics papers:
-.. _lessons:
+.. _lesson:
 
 Lessons & Papers
 ==========================
