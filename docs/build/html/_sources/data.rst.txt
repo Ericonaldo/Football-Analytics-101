@@ -17,6 +17,10 @@ KaggleData
 FootballData
     Jokecamp created `this repository <https://github.com/jokecamp/FootballData>`_ of Football/Soccer data for anyone to use. He save them here as he find them or build the files. Data is in mostly csv and json formats.
 
+Free football data from StatsBomb
+    `This repository <https://github.com/statsbomb/open-data>`__ is committed by StatsBomb to sharing new data and research publicly to enhance understanding of the game of Football. They want to actively encourage new research and analysis at all levels. Therefore they have made certain leagues of StatsBomb Data freely available for public use for research projects and genuine interest in football analytics.
+    
+
 Competitions
 ------------
 
