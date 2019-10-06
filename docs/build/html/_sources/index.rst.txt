@@ -11,6 +11,7 @@ Welcome to Football-Analytics-101's documentation!
    :caption: Contents:
    
    introduction
+   lessons
    data
    company
    reference
