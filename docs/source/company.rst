@@ -4,6 +4,8 @@
 Football Analytics Companies & Products
 =======================================
 
+Football analytics companies, including general analytics companies that cover other sports. These companies are mainly data collectors, statistical analyzers and special solution providers. Companies using AI (Artificial Intelligence) are valued much more. Related product demo vediosa are also contained.
+
 SAP
     `SAP <https://www.sap.com>`_ is a German multinational software corporation founded in 1972 that makes enterprise software to manage business operations and customer relations. Due to its powerful ability of cloud computation, SAP provides numerous kinds of solutions, including data analytics and database. Specifically, SAP offers `SAP-Sports-One <https://www.sap.com/products/sports-one.html>`_ as a sports team management platform based on `SAP-HANA <https://www.sap.com/products/technology-platforms/database-management-system.html>`_, which helps Germany win the 2014 FIFA world cup.
 

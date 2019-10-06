@@ -10,7 +10,7 @@ So far, I have collected informations from the following aspects:
 
 - :ref:`data`: Useful public data source, some are free while others must be bought from data companies.
 
-- :ref:`lessons`: Helpful lessons of Sports Analytics and interesting research papers.
+- :ref:`lessons`: Helpful lessons of Sports Analytics and interesting research papers published on important AI conference and MIT Slogan Sports Analytics Conference Conference.
 
 - :ref:`company`: Football analytics companies, including general analytics companies that cover other sports. These companies are mainly data collectors, statistical analyzers and special solution providers. Companies using AI (Artificial Intelligence) are valued much more. Related product demo vediosa are also contained.
 

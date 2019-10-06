@@ -4,6 +4,8 @@
 Sports Analytics Reference
 ==========================
 
+Some useful reference webpages that provide interesting analytics information on other sports, like basketball, American football, lacrosse, baseball and others.
+
 Basketball (Mainly on NBA)
 --------------------------
 
