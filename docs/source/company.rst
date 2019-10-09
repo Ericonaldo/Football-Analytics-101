@@ -25,11 +25,14 @@ Camvision
 
     Go to their homepage for demos or visit `here <https://youtu.be/rcbokJLrBOY>`__.
 
+StatsBomb
+    `StatsBomb <https://statsbomb.com>`_ are a team with headquarter in Bath, UK and offices in Boston and Cairo, founded in 2016. It is a team of analysts, data scientists, computer engineers, with leadership experience in Football and Technology. They have recently acquired ArqamFC, an experienced data collection team based in Cairo. Arqam bring technology, dedication and are committed to a shared vision with StatsBomb for football data. They provide training courses in Professional Football Analytics. StatsBomb collects data and use it for building practical models to solve real-world problems. 
+    
 MT-Sports
     `MT-Sports <http://www.mtsports.com.cn/>`_ is a company founded in 2015, China, which aims to develop smart wearable devices to collect sports data, and use it for data visualization and sports data mining. Their products has been applied to Chinese national football team, and has became the first choice of sports education information construction in China.
 
 Champdas
     `Champdas <http://data.champdas.com/>`_ is founded in 2016, Shanghai, China. It is a sports internet company with independent property rights, integrating data collection, data mining and data productization. Each game can collect 15000+ related data and present it in real time on Champdas DATA. They focus on the domestic events to provide live broadcasts of the Super League and the Chinese League, and will also pay attention to the performance of the national team.
-
-StatsBomb
-    `StatsBomb <https://statsbomb.com>`_ are a team with headquarter in Bath, UK and offices in Boston and Cairo, founded in 2016. It is a team of analysts, data scientists, computer engineers, with leadership experience in Football and Technology. They have recently acquired ArqamFC, an experienced data collection team based in Cairo. Arqam bring technology, dedication and are committed to a shared vision with StatsBomb for football data. They provide training courses in Professional Football Analytics. StatsBomb collects data and use it for building practical models to solve real-world problems. 
+    
+Tongdaoweiye
+    `Tongdaoweiye <http://www.cfadata.cn/>`_ is founded in 2015, Beijing, China. It is a football big data company that covers data collection, modeling analysis, data application and information system. They offers data service and transfering service and they claim to have management platform, data platform, wearable device and other technologies. They cooperate with Chinese Football Association and Chinese professional teams.
