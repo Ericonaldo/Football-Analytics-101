@@ -26,7 +26,7 @@ Google Research Football: A Novel Reinforcement Learning Environment
     `Google Research Football <https://github.com/google-research/football>`__ is an RL environment based on open-source game Gameplay Football. Read the related paper `here <https://arxiv.org/abs/1907.11180>`__.
 
 DeepMind MuJoCo Multi-Agent Soccer Environment
-    `DeepMind MuJoCo Multi-Agent Soccer Environment <https://arxiv.org/abs/1907.11180>`__, a simulator which is a 2v2 soccer game using the MuJoCo physics engine. Read the related paper `here <https://arxiv.org/abs/1902.07151>`__.
+    `DeepMind MuJoCo Multi-Agent Soccer Environment <https://github.com/deepmind/dm_control/tree/master/dm_control/locomotion/soccer>`__, a simulator which is a 2v2 soccer game using the MuJoCo physics engine. Read the related paper `here <https://arxiv.org/abs/1902.07151>`__.
 
 Competitions
 ------------
