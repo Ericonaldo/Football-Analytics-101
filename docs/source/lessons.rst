@@ -18,7 +18,7 @@ Papers
 <[Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/abs/1802.07127)>, 2019.
     KDD best paper of application track. TBA.
 
-<[BasketballGAN: Generating Basketball Play Simulation Through Sketching]()>, 2019.
+<[BasketballGAN: Generating Basketball Play Simulation Through Sketching](https://arxiv.org/abs/1909.07088)>, 2019.
     Published on ACM MM. TBA.
 
 <[Data-Driven Ghosting using Deep Imitation Learning](https://authors.library.caltech.edu/75181/)>, 2017.
