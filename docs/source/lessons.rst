@@ -12,7 +12,7 @@ Lessons
 CSC2541
     `CSC2541 <http://www.cs.toronto.edu/~urtasun/courses/CSC2541_Winter17/CSC2541_Winter17.html>`_ is a graduate course in machine learning for Sport Analytics from Toronto University, which contains useful resources.
     
-MIT Slogan Sports Analytics Conference Vedios
+MIT Slogan Sports Analytics Conference Videos
     `Here <https://www.youtube.com/user/42analytics/videos>`__ records many of the speeches in MIT Slogan Sports Analytics Conference (SSAC) sicne 2012.
 
 Selected Papers
