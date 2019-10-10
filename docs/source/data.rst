@@ -12,7 +12,7 @@ Data Sources
 ------------
 
 KaggleData
-    `KaggleData <https://www.kaggle.com/datasets?sortBy=votes&group=public&search=fifa&page=1&pageSize=20&size=all&filetype=all&license=all>`_ is keeped by Kaggle, the world's famous data mining competition platform. There are kinds of football data while they also keeping `basketball data <https://www.kaggle.com/datasets?sortBy=votes&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=2606>`_ and `cricket data <https://www.kaggle.com/datasets?sortBy=votes&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=2610>`_.
+    `KaggleData <https://www.kaggle.com/datasets?sortBy=votes&group=public&search=fifa&page=1&pageSize=20&size=all&filetype=all&license=all>`_ is kept by Kaggle, the world's famous data mining competition platform. There are kinds of football data while they also keeping `basketball data <https://www.kaggle.com/datasets?sortBy=votes&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=2606>`_ and `cricket data <https://www.kaggle.com/datasets?sortBy=votes&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=2610>`_.
 
 FootballData
     Jokecamp created `this repository <https://github.com/jokecamp/FootballData>`_ of Football/Soccer data for anyone to use. He save them here as he find them or build the files. Data is in mostly csv and json formats.
