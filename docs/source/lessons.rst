@@ -11,6 +11,10 @@ Lessons
 
 CSC2541
     `CSC2541 <http://www.cs.toronto.edu/~urtasun/courses/CSC2541_Winter17/CSC2541_Winter17.html>`_ is a graduate course in machine learning for Sport Analytics from Toronto University, which contains useful resources.
+    
+MIT Slogan Sports Analytics Conference Vedios
+---------------------------------------------
+    `Here <https://www.youtube.com/user/42analytics/videos>`__ records many of the speeches in MIT Slogan Sports Analytics Conference (SSAC) sicne 2012.
 
 Selected Papers
 -------
@@ -27,4 +31,5 @@ Selected Papers
 People
 ------
 
-[Patrick Lucey](http://patricklucey.com/index.html) is currently the VP of Artificial Intelligence at STATS, whose research interests cover artificial intelligence and interactive machine learning in sporting domains. Many of his publications which can be found on his webpage coincide with my interests.
+`Patrick Lucey <http://patricklucey.com/index.html>`__ is currently the VP of Artificial Intelligence at STATS, whose research interests cover artificial intelligence and interactive machine learning in sporting domains. Many of his publications which can be found on his webpage coincide with my interests.
+
