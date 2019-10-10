@@ -19,7 +19,11 @@ FootballData
 
 Free football data from StatsBomb
     `This repository <https://github.com/statsbomb/open-data>`__ is committed by StatsBomb to sharing new data and research publicly to enhance understanding of the game of Football. They want to actively encourage new research and analysis at all levels. Therefore they have made certain leagues of StatsBomb Data freely available for public use for research projects and genuine interest in football analytics.
-    
+
+Training Environments
+---------------------
+Google Research Football: A Novel Reinforcement Learning Environment
+    `Google Research Football <https://github.com/google-research/football>`__ is an RL environment based on open-source game Gameplay Football. Read the related paper `here <https://arxiv.org/abs/1907.11180>`__.
 
 Competitions
 ------------
