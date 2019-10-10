@@ -5,7 +5,7 @@ Data Sources & Competitions
 ===========================
 
 
-Useful public data source, some are free while others must be bought from data companies. There are also sports analytics challenge and competitions included, some of which offers off-line data for testing insights on.
+Useful public data source, some are free while others must be bought from data companies. In addition, sports analytics challenge and competitions are collected, some of which offers off-line data for testing insights on. There are also some training environments that can be used for reinforcement learning included.
 These collections mainly focus on football while some may cover other sports.
 
 Data Sources
