@@ -15,11 +15,11 @@ CSC2541
 Papers
 -------
 
-<`Actions Speak Louder than Goals: Valuing Player Actions in Soccer <https://arxiv.org/abs/1802.07127>`__, 2019.
+<`Actions Speak Louder than Goals: Valuing Player Actions in Soccer <https://arxiv.org/abs/1802.07127>`__>, 2019.
     KDD best paper of application track. TBA.
 
-<`BasketballGAN: Generating Basketball Play Simulation Through Sketching <https://arxiv.org/abs/1909.07088>`__, 2019.
+<`BasketballGAN: Generating Basketball Play Simulation Through Sketching <https://arxiv.org/abs/1909.07088>`__>, 2019.
     Published on ACM MM. TBA.
 
-<`Data-Driven Ghosting using Deep Imitation Learning <https://authors.library.caltech.edu/75181/>`__, 2017.
+<`Data-Driven Ghosting using Deep Imitation Learning <https://authors.library.caltech.edu/75181/>`__>, 2017.
     Published on MIT-Slogan Sports Analytics Conference. TBA.
