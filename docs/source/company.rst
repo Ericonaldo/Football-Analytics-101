@@ -36,3 +36,9 @@ Champdas
     
 Tongdaoweiye
     `Tongdaoweiye <http://www.cfadata.cn/>`_ is founded in 2015, Beijing, China. It is a football big data company that covers data collection, modeling analysis, data application and information system. They offers data service and transfering service and they claim to have management platform, data platform, wearable device and other technologies. They cooperate with Chinese Football Association and Chinese professional teams.
+    
+WYSCOUT
+    `WYSCOUT <http://wyscout.cn/>`_ is a data-driven company founded in 2007, Italy. They serve football analysis services and tools and they have built their own dataset since 12 years ago. They have products for providing game vedio data, a platform of game anylysis with statistics and a platform for scout with statistics.
+
+WYSCOUT
+    `SkillCorner <https://www.skillcorner.com/>`_ is a computer vision startup founded in 2016, Paris, France, who has built an AI-powered video tracking technology based on deep learning capable of recognizing, positioning and following in real time, the football players, the referee and the ball from any broadcasted game. SkillCorner's tracking algorithm for live broadcasted games is the best available with up to 95% accuracy. From previously unavailable raw tracking data to live match visualization, SkillCorner's products are at the forefront of technological innovation. 
