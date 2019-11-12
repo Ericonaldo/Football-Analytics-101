@@ -48,7 +48,7 @@ Visual data driven (Mostly Tracking)
     <`Ball Tracking and Action Recognition of Soccer Players in TV Broadcast Videos <http://mediatum.ub.tum.de/doc/1145077/870316.pdf>`__>, 2007.
         This is a theis which detailed describe various methods of Video processing in football analysis. TBA.
     <`Visually Tracking Football Games Based on TV Broadcasts <https://www.ijcai.org/Proceedings/07/Papers/333.pdf>`__>, 2007.
-        Published in IJCAI07. This paper is an extension of <`ASPOGAMO: Automated Sports Game Analysis Models` <https://pdfs.semanticscholar.org/9a61/2ecc7c31cdf30b38854c9b6a6626762fd33a.pdf>`__>. They propose ASPOGAMO, a visual tracking system that determines the coordinates and trajectories of football players in camera view based on TV broadcasts.  
+        Published in IJCAI07. This paper is an extension of <`ASPOGAMO: Automated Sports Game Analysis Models <https://pdfs.semanticscholar.org/9a61/2ecc7c31cdf30b38854c9b6a6626762fd33a.pdf>`__>. They propose ASPOGAMO, a visual tracking system that determines the coordinates and trajectories of football players in camera view based on TV broadcasts.  
     <`Players and Ball Detection in Soccer Videos Based on Color Segmentation and Shape Analysis <https://www.semanticscholar.org/paper/Players-and-Ball-Detection-in-Soccer-Videos-Based-Huang-Llach/d4dbe2cab251cefd1864b0e5f5d0ae0b2de65c22>`__>, 2007.
         Published in MCAM 2007. This paper proposes a scheme to detect and locate the players and the ball on the grass playfield in soccer videos.
     <`Soccer video analysis by ball, player and referee tracking <https://dl.acm.org/citation.cfm?id=1216262.1216268>`__>, 2006.
