@@ -30,7 +30,7 @@ Statistical data driven
 
 Visual data driven (Mostly Tracking)
     <`Multiple Object Tracking in Soccer Videos using Topographic Surface Analysis <https://www.sciencedirect.com/science/article/pii/S1047320319303049>`__>, 2019.
-        KDD best paper of application track. TBA.
+        TBA.
     <`Tracking Multiple People in a Multi-Camera Environment <https://www.epfl.ch/labs/cvlab/research/research-surv/research-body-surv-index-php/>`__>, 2018.
         TBA.
     <`Soccer: Who Has The Ball? Generating Visual Analytics and Player Statistics <https://www.semanticscholar.org/paper/Ball-Tracking-and-Action-Recognition-of-Soccer-in-Durus/f017ab84412ad64e07818d37be289aa638bd5e69>`__>, 2018.
