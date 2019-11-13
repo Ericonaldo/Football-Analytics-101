@@ -41,10 +41,8 @@ Visual data driven (Mostly Tracking)
         TBA.
     <`Event Recognition in Broadcast Soccer Videos <https://dl.acm.org/citation.cfm?id=3010074>`__>, 2016.
         Published in ICVGIP16, Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and Image Processing.
-    <`Learning to Track and Identify Players from Broadcast Sports Videos <https://www.cs.ubc.ca/~murphyk/Papers/weilwun-pami12.pdf>`__>, 2013.
+    <`Learning to Track and Identify Players from Broadcast Sports Videos <https://www.cs.ubc.ca/~murphyk/Papers/weilwun-pami12.pdf>`__>, 2012.
         Published on IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE.
-    <`Learning to Track and Identify Players from Broadcast Sports <https://www.cs.ubc.ca/~murphyk/Papers/weilwun-pami12.pdf>`__>, 2011.
-        TBA.
     <`Ball Tracking and Action Recognition of Soccer Players in TV Broadcast Videos <http://mediatum.ub.tum.de/doc/1145077/870316.pdf>`__>, 2007.
         This is a theis which detailed describe various methods of Video processing in football analysis. TBA.
     <`Visually Tracking Football Games Based on TV Broadcasts <https://www.ijcai.org/Proceedings/07/Papers/333.pdf>`__>, 2007.
