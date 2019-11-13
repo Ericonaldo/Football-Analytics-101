@@ -33,7 +33,7 @@ Visual data driven (Mostly Tracking)
         TBA.
     <`Tracking Multiple People in a Multi-Camera Environment <https://www.epfl.ch/labs/cvlab/research/research-surv/research-body-surv-index-php/>`__>, 2018.
         TBA.
-    <`Soccer: Who Has The Ball? Generating Visual Analytics and Player Statistics <https://www.semanticscholar.org/paper/Ball-Tracking-and-Action-Recognition-of-Soccer-in-Durus/f017ab84412ad64e07818d37be289aa638bd5e69>`__>, 2018.
+    <`Soccer: Who Has The Ball? Generating Visual Analytics and Player Statistics <https://www.vislab.ucr.edu/PUBLICATIONS/pubs/Journal%20and%20Conference%20Papers/after10-1-1997/Conference/2018/FINAL-published-soccer-ball-generating.pdf>`__>, 2018.
         Published on CVPR workshop. TBA.
     <`A Survey on Player Tracking in Soccer Videos <https://www.sciencedirect.com/science/article/pii/S1077314217300309>`__>, 2017.
         TBA.
