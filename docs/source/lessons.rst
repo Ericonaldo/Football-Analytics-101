@@ -41,6 +41,8 @@ Visual data driven (Mostly Tracking)
         TBA.
     <`Event Recognition in Broadcast Soccer Videos <https://dl.acm.org/citation.cfm?id=3010074>`__>, 2016.
         Published in ICVGIP16, Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and Image Processing.
+    <`Detecting events and key actors in multi-person videos <https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ramanathan_Detecting_Events_and_CVPR_2016_paper.html>`__>
+        By Google and Stanford researchers (Feifei Li).
     <`Learning to Track and Identify Players from Broadcast Sports Videos <https://www.cs.ubc.ca/~murphyk/Papers/weilwun-pami12.pdf>`__>, 2012.
         Published on IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE.
     <`Ball Tracking and Action Recognition of Soccer Players in TV Broadcast Videos <http://mediatum.ub.tum.de/doc/1145077/870316.pdf>`__>, 2007.
